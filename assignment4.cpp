@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 class BankAccount {
-private:
+protected:
     string accountHolder;
     double balance;
 public:
